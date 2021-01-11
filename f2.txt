@@ -1,2 +1,3 @@
 LINE_1 on remote master
 LINE_2 on local master
+LINE_3 on remote master
